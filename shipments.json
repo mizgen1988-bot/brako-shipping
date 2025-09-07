@@ -1,0 +1,55 @@
+[
+    {
+        "shipmentNumber": "1",
+        "invoiceNumber": "11",
+        "date": "2025-09-06",
+        "time": "09:20",
+        "branch": "topeka",
+        "shippingType": "local",
+        "sender": {
+            "name": "مزكين",
+            "phone": "+963 0997837017",
+            "country": "سوريا",
+            "city": "دير الزور",
+            "address": "اتات"
+        },
+        "receiver": {
+            "name": "555",
+            "phone": "+963 936484021",
+            "country": "سوريا",
+            "city": "معبدة",
+            "address": "انانلا"
+        },
+        "paymentMethod": "cod",
+        "insurance": false,
+        "insuranceCost": "0",
+        "packaging": false,
+        "packagingCost": "0",
+        "quantity": "5",
+        "unitPrice": "1",
+        "weight": "55",
+        "itemType": "كيس",
+        "contents": "ملابس",
+        "finalPrice": "55.00",
+        "currency": "USD",
+        "status": "in_sorting",
+        "statusHistory": [
+            {
+                "status": "received",
+                "city": "",
+                "notes": "تم استلام الشحنة في المركز",
+                "date": "2025-09-06",
+                "time": "09:21"
+            },
+            {
+                "status": "in_sorting",
+                "city": "",
+                "notes": "",
+                "date": "2025-09-06",
+                "time": "10:32"
+            }
+        ],
+        "id": 1757139688260,
+        "trackingCode": "TOP39688260"
+    }
+]
